@@ -1,0 +1,11 @@
+body {
+    background: #333;
+}
+
+.box {
+    background: white;
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
